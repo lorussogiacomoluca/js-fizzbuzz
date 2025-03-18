@@ -30,3 +30,4 @@ Numero push minimo: **4**
 1. Stampare tutti i numeri da 1 a 100
 2. Individuare i numeri multipli di 3
 3. Individuare i numeri multipli di 5
+4. Individuare i numeri multipli sia di 3 che di 5
