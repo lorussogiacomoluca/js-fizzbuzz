@@ -28,3 +28,5 @@ Numero push minimo: **4**
 
 # SUDDIVISIONE
 1. Stampare tutti i numeri da 1 a 100
+2. Individuare i numeri multipli di 3
+3. Individuare i numeri multipli di 5
