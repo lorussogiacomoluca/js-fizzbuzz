@@ -25,3 +25,6 @@ Numero push minimo: **4**
 ---
 
 ## 🎮 Buon lavoro e buon divertimento!
+
+# SUDDIVISIONE
+1. Stampare tutti i numeri da 1 a 100
