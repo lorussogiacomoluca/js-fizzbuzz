@@ -22,3 +22,22 @@ if(i%3 == 0){
 }
 }
 
+//Ottimizzazione codice
+for(let j = 1; j<=100; j++){
+    // Dichiarazione variabile da stampare ad ogni ciclo
+    let output = '';
+    //Verifico se e' divisibile per 3 -> Fizz
+    if (j%3 == 0){
+        output += 'Fizz';
+    }
+    //Verifico se e' divisibile per 5 -> Buzz
+    if (j%5 == 0){
+        output += 'Buzz'
+    }
+    //Verifico se non e' divisible per 3 o 5
+    if(output == ''){
+        output = j
+    }
+    //Stampo e ritorno a variabile ''
+    console.log(output);
+}
